@@ -12,6 +12,7 @@ public class HelloGit {
         System.out.println("更新6");
         System.out.println("更新7");
         System.out.println("主干修改");
+        System.out.println("分支修改");
     }
 
 }
